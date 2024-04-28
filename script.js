@@ -7,9 +7,9 @@ const fs = require('fs')
 
 // ---
 
-const CLIENT_ID = '784658982280-jpd6odl8f9pv6n7emos9hkbamqs9gjll.apps.googleusercontent.com'
-const CLIENT_SECRET = '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'
-const API_KEY = 'AIzaSyCln-hwXGn7zJ8tH4LMwUqUYlTQ1ALbIyM'
+const CLIENT_ID = ''
+const CLIENT_SECRET = ''
+const API_KEY = ''
 const AUTH = { headers: {} }
 
 let songs_by_band = {}
