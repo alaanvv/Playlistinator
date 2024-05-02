@@ -17,3 +17,4 @@
 - Delete all songs of a band at once
 - It's all saved in cache, so, as you add more songs, you  
   can get the app running and your configurations are still there
+- Transfer your playlist to Spotify
